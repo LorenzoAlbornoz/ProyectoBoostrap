@@ -64,6 +64,12 @@ footer .line{
 }
 }
 
+@media only screen and (max-width: 576px) and (min-width: 300px) {
+    footer .line{
+        margin-left: 44%;
+    }
+    }
+
 .social-icons a {
     width: 40px;
     height: 40px;
